@@ -1,0 +1,221 @@
+{
+    "#4560-#4574": {
+        "description": "SHAPE_DEFINITION_REPRESENTATION #4574 \n\tPRODUCT_DEFINITION_SHAPE[]\n\t\tPRODUCT_DEFINITION[]\n\tADVANCED_BREP_SHAPE_REPRESENTATION[]\n\t\tAXIS2_PLACEMENT_3D[]\n\t\t\tCARTESIAN_POINT\n\t\t\tDIRECTION\n\t\t\tDIRECTION\n\t\tAXIS2_PLACEMENT_3D[]\n\t\t\tCARTESIAN_POINT\n\t\t\tDIRECTION\n\t\t\tDIRECTION\n\t\tAXIS2_PLACEMENT_3D[]\n\t\t\tCARTESIAN_POINT\n\t\t\tDIRECTION\n\t\t\tDIRECTION\n\t\tAXIS2_PLACEMENT_3D[]\n\t\t\tCARTESIAN_POINT\n\t\t\tDIRECTION\n\t\t\tDIRECTION\n\t\tAXIS2_PLACEMENT_3D[]\n\t\t\tCARTESIAN_POINT\n\t\t\tDIRECTION\n\t\t\tDIRECTION\n\t\tAXIS2_PLACEMENT_3D[]\n\t\t\tCARTESIAN_POINT\n\t\t\tDIRECTION\n\t\t\tDIRECTION\n\t\tAXIS2_PLACEMENT_3D[]\n\t\t\tCARTESIAN_POINT\n\t\t\tDIRECTION\n\t\t\tDIRECTION\n\t\tAXIS2_PLACEMENT_3D[]\n\t\t\tCARTESIAN_POINT\n\t\t\tDIRECTION\n\t\t\tDIRECTION\n\t\tGEOMETRIC_REPRESENTATION_CONTEXT[]\n",
+        "children": [
+            {
+                "#4404-#4418": {
+                    "description": "SHAPE_DEFINITION_REPRESENTATION #4418 \n\tPRODUCT_DEFINITION_SHAPE[]\n\t\tPRODUCT_DEFINITION[]\n\tADVANCED_BREP_SHAPE_REPRESENTATION[]\n\t\tAXIS2_PLACEMENT_3D[]\n\t\t\tCARTESIAN_POINT\n\t\t\tDIRECTION\n\t\t\tDIRECTION\n\t\tAXIS2_PLACEMENT_3D[]\n\t\t\tCARTESIAN_POINT\n\t\t\tDIRECTION\n\t\t\tDIRECTION\n\t\tAXIS2_PLACEMENT_3D[]\n\t\t\tCARTESIAN_POINT\n\t\t\tDIRECTION\n\t\t\tDIRECTION\n\t\tGEOMETRIC_REPRESENTATION_CONTEXT[]\n",
+                    "children": [
+                        {
+                            "#3552-#3566": {
+                                "description": "SHAPE_DEFINITION_REPRESENTATION #3566 \n\tPRODUCT_DEFINITION_SHAPE[]\n\t\tPRODUCT_DEFINITION[]\n\tADVANCED_BREP_SHAPE_REPRESENTATION[]\n\t\tMANIFOLD_SOLID_BREP[]\n\t\t\tCLOSED_SHELL[]\n\t\t\t\tADVANCED_FACE[]\n\t\t\t\t\tFACE_BOUND[]\n\t\t\t\t\t\tEDGE_LOOP[]\n\t\t\t\t\tPLANE[]\n\t\t\t\tADVANCED_FACE[]\n\t\t\t\t\tFACE_BOUND[]\n\t\t\t\t\t\tEDGE_LOOP[]\n\t\t\t\t\tPLANE[]\n\t\t\t\tADVANCED_FACE[]\n\t\t\t\t\tFACE_BOUND[]\n\t\t\t\t\t\tEDGE_LOOP[]\n\t\t\t\t\tPLANE[]\n\t\t\t\tADVANCED_FACE[]\n\t\t\t\t\tFACE_BOUND[]\n\t\t\t\t\t\tEDGE_LOOP[]\n\t\t\t\t\tPLANE[]\n\t\t\t\tADVANCED_FACE[]\n\t\t\t\t\tFACE_BOUND[]\n\t\t\t\t\t\tEDGE_LOOP[]\n\t\t\t\t\tPLANE[]\n\t\t\t\tADVANCED_FACE[]\n\t\t\t\t\tFACE_BOUND[]\n\t\t\t\t\t\tEDGE_LOOP[]\n\t\t\t\t\tPLANE[]\n\t\tAXIS2_PLACEMENT_3D[]\n\t\t\tCARTESIAN_POINT\n\t\t\tDIRECTION\n\t\t\tDIRECTION\n\t\tGEOMETRIC_REPRESENTATION_CONTEXT[]\n",
+                                "children": [],
+                                "childAmount": 0
+                            }
+                        },
+                        {
+                            "#3456-#3470": {
+                                "description": "SHAPE_DEFINITION_REPRESENTATION #3470 \n\tPRODUCT_DEFINITION_SHAPE[]\n\t\tPRODUCT_DEFINITION[]\n\tADVANCED_BREP_SHAPE_REPRESENTATION[]\n\t\tMANIFOLD_SOLID_BREP[]\n\t\t\tCLOSED_SHELL[]\n\t\t\t\tADVANCED_FACE[]\n\t\t\t\t\tFACE_BOUND[]\n\t\t\t\t\t\tEDGE_LOOP[]\n\t\t\t\t\tPLANE[]\n\t\t\t\tADVANCED_FACE[]\n\t\t\t\t\tFACE_BOUND[]\n\t\t\t\t\t\tEDGE_LOOP[]\n\t\t\t\t\tPLANE[]\n\t\t\t\tADVANCED_FACE[]\n\t\t\t\t\tFACE_BOUND[]\n\t\t\t\t\t\tEDGE_LOOP[]\n\t\t\t\t\tPLANE[]\n\t\t\t\tADVANCED_FACE[]\n\t\t\t\t\tFACE_BOUND[]\n\t\t\t\t\t\tEDGE_LOOP[]\n\t\t\t\t\tPLANE[]\n\t\t\t\tADVANCED_FACE[]\n\t\t\t\t\tFACE_BOUND[]\n\t\t\t\t\t\tEDGE_LOOP[]\n\t\t\t\t\tPLANE[]\n\t\tAXIS2_PLACEMENT_3D[]\n\t\t\tCARTESIAN_POINT\n\t\t\tDIRECTION\n\t\t\tDIRECTION\n\t\tGEOMETRIC_REPRESENTATION_CONTEXT[]\n",
+                                "children": [],
+                                "childAmount": 0
+                            }
+                        }
+                    ],
+                    "childAmount": 2
+                }
+            },
+            {
+                "#4248-#4262": {
+                    "description": "SHAPE_DEFINITION_REPRESENTATION #4262 \n\tPRODUCT_DEFINITION_SHAPE[]\n\t\tPRODUCT_DEFINITION[]\n\tADVANCED_BREP_SHAPE_REPRESENTATION[]\n\t\tAXIS2_PLACEMENT_3D[]\n\t\t\tCARTESIAN_POINT\n\t\t\tDIRECTION\n\t\t\tDIRECTION\n\t\tAXIS2_PLACEMENT_3D[]\n\t\t\tCARTESIAN_POINT\n\t\t\tDIRECTION\n\t\t\tDIRECTION\n\t\tAXIS2_PLACEMENT_3D[]\n\t\t\tCARTESIAN_POINT\n\t\t\tDIRECTION\n\t\t\tDIRECTION\n\t\tGEOMETRIC_REPRESENTATION_CONTEXT[]\n",
+                    "children": [
+                        {
+                            "#3270-#3284": {
+                                "description": "SHAPE_DEFINITION_REPRESENTATION #3284 \n\tPRODUCT_DEFINITION_SHAPE[]\n\t\tPRODUCT_DEFINITION[]\n\tADVANCED_BREP_SHAPE_REPRESENTATION[]\n\t\tAXIS2_PLACEMENT_3D[]\n\t\t\tCARTESIAN_POINT\n\t\t\tDIRECTION\n\t\t\tDIRECTION\n\t\tAXIS2_PLACEMENT_3D[]\n\t\t\tCARTESIAN_POINT\n\t\t\tDIRECTION\n\t\t\tDIRECTION\n\t\tAXIS2_PLACEMENT_3D[]\n\t\t\tCARTESIAN_POINT\n\t\t\tDIRECTION\n\t\t\tDIRECTION\n\t\tAXIS2_PLACEMENT_3D[]\n\t\t\tCARTESIAN_POINT\n\t\t\tDIRECTION\n\t\t\tDIRECTION\n\t\tGEOMETRIC_REPRESENTATION_CONTEXT[]\n",
+                                "children": [
+                                    {
+                                        "#2604-#2618": {
+                                            "description": "SHAPE_DEFINITION_REPRESENTATION #2618 \n\tPRODUCT_DEFINITION_SHAPE[]\n\t\tPRODUCT_DEFINITION[]\n\tADVANCED_BREP_SHAPE_REPRESENTATION[]\n\t\tMANIFOLD_SOLID_BREP[]\n\t\t\tCLOSED_SHELL[]\n\t\t\t\tADVANCED_FACE[]\n\t\t\t\t\tFACE_BOUND[]\n\t\t\t\t\t\tEDGE_LOOP[]\n\t\t\t\t\tPLANE[]\n\t\t\t\tADVANCED_FACE[]\n\t\t\t\t\tFACE_BOUND[]\n\t\t\t\t\t\tEDGE_LOOP[]\n\t\t\t\t\tPLANE[]\n\t\t\t\tADVANCED_FACE[]\n\t\t\t\t\tFACE_BOUND[]\n\t\t\t\t\t\tEDGE_LOOP[]\n\t\t\t\t\tFACE_BOUND[]\n\t\t\t\t\t\tEDGE_LOOP[]\n\t\t\t\t\tCYLINDRICAL_SURFACE[]\n\t\t\t\t\t\tAXIS2_PLACEMENT_3D[]\n\t\t\t\t\t\t\tCARTESIAN_POINT\n\t\t\t\t\t\t\tDIRECTION\n\t\t\t\t\t\t\tDIRECTION\n\t\tAXIS2_PLACEMENT_3D[]\n\t\t\tCARTESIAN_POINT\n\t\t\tDIRECTION\n\t\t\tDIRECTION\n\t\tGEOMETRIC_REPRESENTATION_CONTEXT[]\n",
+                                            "children": [],
+                                            "childAmount": 0
+                                        }
+                                    },
+                                    {
+                                        "#2448-#2462": {
+                                            "description": "SHAPE_DEFINITION_REPRESENTATION #2462 \n\tPRODUCT_DEFINITION_SHAPE[]\n\t\tPRODUCT_DEFINITION[]\n\tADVANCED_BREP_SHAPE_REPRESENTATION[]\n\t\tAXIS2_PLACEMENT_3D[]\n\t\t\tCARTESIAN_POINT\n\t\t\tDIRECTION\n\t\t\tDIRECTION\n\t\tAXIS2_PLACEMENT_3D[]\n\t\t\tCARTESIAN_POINT\n\t\t\tDIRECTION\n\t\t\tDIRECTION\n\t\tAXIS2_PLACEMENT_3D[]\n\t\t\tCARTESIAN_POINT\n\t\t\tDIRECTION\n\t\t\tDIRECTION\n\t\tGEOMETRIC_REPRESENTATION_CONTEXT[]\n",
+                                            "children": [
+                                                {
+                                                    "#2352-#2366": {
+                                                        "description": "SHAPE_DEFINITION_REPRESENTATION #2366 \n\tPRODUCT_DEFINITION_SHAPE[]\n\t\tPRODUCT_DEFINITION[]\n\tADVANCED_BREP_SHAPE_REPRESENTATION[]\n\t\tMANIFOLD_SOLID_BREP[]\n\t\t\tCLOSED_SHELL[]\n\t\t\t\tADVANCED_FACE[]\n\t\t\t\t\tFACE_BOUND[]\n\t\t\t\t\t\tVERTEX_LOOP[]\n\t\t\t\t\t\t\tVERTEX_POINT[]\n\t\t\t\t\t\t\t\tCARTESIAN_POINT\n\t\t\t\t\tSPHERICAL_SURFACE[]\n\t\t\t\t\t\tAXIS2_PLACEMENT_3D[]\n\t\t\t\t\t\t\tCARTESIAN_POINT\n\t\t\t\t\t\t\tDIRECTION\n\t\t\t\t\t\t\tDIRECTION\n\t\tAXIS2_PLACEMENT_3D[]\n\t\t\tCARTESIAN_POINT\n\t\t\tDIRECTION\n\t\t\tDIRECTION\n\t\tGEOMETRIC_REPRESENTATION_CONTEXT[]\n",
+                                                        "children": [],
+                                                        "childAmount": 0
+                                                    }
+                                                },
+                                                {
+                                                    "#2164-#2178": {
+                                                        "description": "SHAPE_DEFINITION_REPRESENTATION #2178 \n\tPRODUCT_DEFINITION_SHAPE[]\n\t\tPRODUCT_DEFINITION[]\n\tADVANCED_BREP_SHAPE_REPRESENTATION[]\n\t\tMANIFOLD_SOLID_BREP[]\n\t\t\tCLOSED_SHELL[]\n\t\t\t\tADVANCED_FACE[]\n\t\t\t\t\tFACE_BOUND[]\n\t\t\t\t\t\tVERTEX_LOOP[]\n\t\t\t\t\t\t\tVERTEX_POINT[]\n\t\t\t\t\t\t\t\tCARTESIAN_POINT\n\t\t\t\t\tTOROIDAL_SURFACE[]\n\t\t\t\t\t\tAXIS2_PLACEMENT_3D[]\n\t\t\t\t\t\t\tCARTESIAN_POINT\n\t\t\t\t\t\t\tDIRECTION\n\t\t\t\t\t\t\tDIRECTION\n\t\tAXIS2_PLACEMENT_3D[]\n\t\t\tCARTESIAN_POINT\n\t\t\tDIRECTION\n\t\t\tDIRECTION\n\t\tGEOMETRIC_REPRESENTATION_CONTEXT[]\n",
+                                                        "children": [],
+                                                        "childAmount": 0
+                                                    }
+                                                }
+                                            ],
+                                            "childAmount": 2
+                                        }
+                                    },
+                                    {
+                                        "#2448-#2462": {
+                                            "description": "SHAPE_DEFINITION_REPRESENTATION #2462 \n\tPRODUCT_DEFINITION_SHAPE[]\n\t\tPRODUCT_DEFINITION[]\n\tADVANCED_BREP_SHAPE_REPRESENTATION[]\n\t\tAXIS2_PLACEMENT_3D[]\n\t\t\tCARTESIAN_POINT\n\t\t\tDIRECTION\n\t\t\tDIRECTION\n\t\tAXIS2_PLACEMENT_3D[]\n\t\t\tCARTESIAN_POINT\n\t\t\tDIRECTION\n\t\t\tDIRECTION\n\t\tAXIS2_PLACEMENT_3D[]\n\t\t\tCARTESIAN_POINT\n\t\t\tDIRECTION\n\t\t\tDIRECTION\n\t\tGEOMETRIC_REPRESENTATION_CONTEXT[]\n",
+                                            "children": [
+                                                {
+                                                    "#2352-#2366": {
+                                                        "description": "SHAPE_DEFINITION_REPRESENTATION #2366 \n\tPRODUCT_DEFINITION_SHAPE[]\n\t\tPRODUCT_DEFINITION[]\n\tADVANCED_BREP_SHAPE_REPRESENTATION[]\n\t\tMANIFOLD_SOLID_BREP[]\n\t\t\tCLOSED_SHELL[]\n\t\t\t\tADVANCED_FACE[]\n\t\t\t\t\tFACE_BOUND[]\n\t\t\t\t\t\tVERTEX_LOOP[]\n\t\t\t\t\t\t\tVERTEX_POINT[]\n\t\t\t\t\t\t\t\tCARTESIAN_POINT\n\t\t\t\t\tSPHERICAL_SURFACE[]\n\t\t\t\t\t\tAXIS2_PLACEMENT_3D[]\n\t\t\t\t\t\t\tCARTESIAN_POINT\n\t\t\t\t\t\t\tDIRECTION\n\t\t\t\t\t\t\tDIRECTION\n\t\tAXIS2_PLACEMENT_3D[]\n\t\t\tCARTESIAN_POINT\n\t\t\tDIRECTION\n\t\t\tDIRECTION\n\t\tGEOMETRIC_REPRESENTATION_CONTEXT[]\n",
+                                                        "children": [],
+                                                        "childAmount": 0
+                                                    }
+                                                },
+                                                {
+                                                    "#2164-#2178": {
+                                                        "description": "SHAPE_DEFINITION_REPRESENTATION #2178 \n\tPRODUCT_DEFINITION_SHAPE[]\n\t\tPRODUCT_DEFINITION[]\n\tADVANCED_BREP_SHAPE_REPRESENTATION[]\n\t\tMANIFOLD_SOLID_BREP[]\n\t\t\tCLOSED_SHELL[]\n\t\t\t\tADVANCED_FACE[]\n\t\t\t\t\tFACE_BOUND[]\n\t\t\t\t\t\tVERTEX_LOOP[]\n\t\t\t\t\t\t\tVERTEX_POINT[]\n\t\t\t\t\t\t\t\tCARTESIAN_POINT\n\t\t\t\t\tTOROIDAL_SURFACE[]\n\t\t\t\t\t\tAXIS2_PLACEMENT_3D[]\n\t\t\t\t\t\t\tCARTESIAN_POINT\n\t\t\t\t\t\t\tDIRECTION\n\t\t\t\t\t\t\tDIRECTION\n\t\tAXIS2_PLACEMENT_3D[]\n\t\t\tCARTESIAN_POINT\n\t\t\tDIRECTION\n\t\t\tDIRECTION\n\t\tGEOMETRIC_REPRESENTATION_CONTEXT[]\n",
+                                                        "children": [],
+                                                        "childAmount": 0
+                                                    }
+                                                }
+                                            ],
+                                            "childAmount": 2
+                                        }
+                                    }
+                                ],
+                                "childAmount": 3
+                            }
+                        },
+                        {
+                            "#3084-#3098": {
+                                "description": "SHAPE_DEFINITION_REPRESENTATION #3098 \n\tPRODUCT_DEFINITION_SHAPE[]\n\t\tPRODUCT_DEFINITION[]\n\tADVANCED_BREP_SHAPE_REPRESENTATION[]\n\t\tAXIS2_PLACEMENT_3D[]\n\t\t\tCARTESIAN_POINT\n\t\t\tDIRECTION\n\t\t\tDIRECTION\n\t\tAXIS2_PLACEMENT_3D[]\n\t\t\tCARTESIAN_POINT\n\t\t\tDIRECTION\n\t\t\tDIRECTION\n\t\tAXIS2_PLACEMENT_3D[]\n\t\t\tCARTESIAN_POINT\n\t\t\tDIRECTION\n\t\t\tDIRECTION\n\t\tAXIS2_PLACEMENT_3D[]\n\t\t\tCARTESIAN_POINT\n\t\t\tDIRECTION\n\t\t\tDIRECTION\n\t\tGEOMETRIC_REPRESENTATION_CONTEXT[]\n",
+                                "children": [
+                                    {
+                                        "#2604-#2618": {
+                                            "description": "SHAPE_DEFINITION_REPRESENTATION #2618 \n\tPRODUCT_DEFINITION_SHAPE[]\n\t\tPRODUCT_DEFINITION[]\n\tADVANCED_BREP_SHAPE_REPRESENTATION[]\n\t\tMANIFOLD_SOLID_BREP[]\n\t\t\tCLOSED_SHELL[]\n\t\t\t\tADVANCED_FACE[]\n\t\t\t\t\tFACE_BOUND[]\n\t\t\t\t\t\tEDGE_LOOP[]\n\t\t\t\t\tPLANE[]\n\t\t\t\tADVANCED_FACE[]\n\t\t\t\t\tFACE_BOUND[]\n\t\t\t\t\t\tEDGE_LOOP[]\n\t\t\t\t\tPLANE[]\n\t\t\t\tADVANCED_FACE[]\n\t\t\t\t\tFACE_BOUND[]\n\t\t\t\t\t\tEDGE_LOOP[]\n\t\t\t\t\tFACE_BOUND[]\n\t\t\t\t\t\tEDGE_LOOP[]\n\t\t\t\t\tCYLINDRICAL_SURFACE[]\n\t\t\t\t\t\tAXIS2_PLACEMENT_3D[]\n\t\t\t\t\t\t\tCARTESIAN_POINT\n\t\t\t\t\t\t\tDIRECTION\n\t\t\t\t\t\t\tDIRECTION\n\t\tAXIS2_PLACEMENT_3D[]\n\t\t\tCARTESIAN_POINT\n\t\t\tDIRECTION\n\t\t\tDIRECTION\n\t\tGEOMETRIC_REPRESENTATION_CONTEXT[]\n",
+                                            "children": [],
+                                            "childAmount": 0
+                                        }
+                                    },
+                                    {
+                                        "#2448-#2462": {
+                                            "description": "SHAPE_DEFINITION_REPRESENTATION #2462 \n\tPRODUCT_DEFINITION_SHAPE[]\n\t\tPRODUCT_DEFINITION[]\n\tADVANCED_BREP_SHAPE_REPRESENTATION[]\n\t\tAXIS2_PLACEMENT_3D[]\n\t\t\tCARTESIAN_POINT\n\t\t\tDIRECTION\n\t\t\tDIRECTION\n\t\tAXIS2_PLACEMENT_3D[]\n\t\t\tCARTESIAN_POINT\n\t\t\tDIRECTION\n\t\t\tDIRECTION\n\t\tAXIS2_PLACEMENT_3D[]\n\t\t\tCARTESIAN_POINT\n\t\t\tDIRECTION\n\t\t\tDIRECTION\n\t\tGEOMETRIC_REPRESENTATION_CONTEXT[]\n",
+                                            "children": [
+                                                {
+                                                    "#2352-#2366": {
+                                                        "description": "SHAPE_DEFINITION_REPRESENTATION #2366 \n\tPRODUCT_DEFINITION_SHAPE[]\n\t\tPRODUCT_DEFINITION[]\n\tADVANCED_BREP_SHAPE_REPRESENTATION[]\n\t\tMANIFOLD_SOLID_BREP[]\n\t\t\tCLOSED_SHELL[]\n\t\t\t\tADVANCED_FACE[]\n\t\t\t\t\tFACE_BOUND[]\n\t\t\t\t\t\tVERTEX_LOOP[]\n\t\t\t\t\t\t\tVERTEX_POINT[]\n\t\t\t\t\t\t\t\tCARTESIAN_POINT\n\t\t\t\t\tSPHERICAL_SURFACE[]\n\t\t\t\t\t\tAXIS2_PLACEMENT_3D[]\n\t\t\t\t\t\t\tCARTESIAN_POINT\n\t\t\t\t\t\t\tDIRECTION\n\t\t\t\t\t\t\tDIRECTION\n\t\tAXIS2_PLACEMENT_3D[]\n\t\t\tCARTESIAN_POINT\n\t\t\tDIRECTION\n\t\t\tDIRECTION\n\t\tGEOMETRIC_REPRESENTATION_CONTEXT[]\n",
+                                                        "children": [],
+                                                        "childAmount": 0
+                                                    }
+                                                },
+                                                {
+                                                    "#2164-#2178": {
+                                                        "description": "SHAPE_DEFINITION_REPRESENTATION #2178 \n\tPRODUCT_DEFINITION_SHAPE[]\n\t\tPRODUCT_DEFINITION[]\n\tADVANCED_BREP_SHAPE_REPRESENTATION[]\n\t\tMANIFOLD_SOLID_BREP[]\n\t\t\tCLOSED_SHELL[]\n\t\t\t\tADVANCED_FACE[]\n\t\t\t\t\tFACE_BOUND[]\n\t\t\t\t\t\tVERTEX_LOOP[]\n\t\t\t\t\t\t\tVERTEX_POINT[]\n\t\t\t\t\t\t\t\tCARTESIAN_POINT\n\t\t\t\t\tTOROIDAL_SURFACE[]\n\t\t\t\t\t\tAXIS2_PLACEMENT_3D[]\n\t\t\t\t\t\t\tCARTESIAN_POINT\n\t\t\t\t\t\t\tDIRECTION\n\t\t\t\t\t\t\tDIRECTION\n\t\tAXIS2_PLACEMENT_3D[]\n\t\t\tCARTESIAN_POINT\n\t\t\tDIRECTION\n\t\t\tDIRECTION\n\t\tGEOMETRIC_REPRESENTATION_CONTEXT[]\n",
+                                                        "children": [],
+                                                        "childAmount": 0
+                                                    }
+                                                }
+                                            ],
+                                            "childAmount": 2
+                                        }
+                                    },
+                                    {
+                                        "#2448-#2462": {
+                                            "description": "SHAPE_DEFINITION_REPRESENTATION #2462 \n\tPRODUCT_DEFINITION_SHAPE[]\n\t\tPRODUCT_DEFINITION[]\n\tADVANCED_BREP_SHAPE_REPRESENTATION[]\n\t\tAXIS2_PLACEMENT_3D[]\n\t\t\tCARTESIAN_POINT\n\t\t\tDIRECTION\n\t\t\tDIRECTION\n\t\tAXIS2_PLACEMENT_3D[]\n\t\t\tCARTESIAN_POINT\n\t\t\tDIRECTION\n\t\t\tDIRECTION\n\t\tAXIS2_PLACEMENT_3D[]\n\t\t\tCARTESIAN_POINT\n\t\t\tDIRECTION\n\t\t\tDIRECTION\n\t\tGEOMETRIC_REPRESENTATION_CONTEXT[]\n",
+                                            "children": [
+                                                {
+                                                    "#2352-#2366": {
+                                                        "description": "SHAPE_DEFINITION_REPRESENTATION #2366 \n\tPRODUCT_DEFINITION_SHAPE[]\n\t\tPRODUCT_DEFINITION[]\n\tADVANCED_BREP_SHAPE_REPRESENTATION[]\n\t\tMANIFOLD_SOLID_BREP[]\n\t\t\tCLOSED_SHELL[]\n\t\t\t\tADVANCED_FACE[]\n\t\t\t\t\tFACE_BOUND[]\n\t\t\t\t\t\tVERTEX_LOOP[]\n\t\t\t\t\t\t\tVERTEX_POINT[]\n\t\t\t\t\t\t\t\tCARTESIAN_POINT\n\t\t\t\t\tSPHERICAL_SURFACE[]\n\t\t\t\t\t\tAXIS2_PLACEMENT_3D[]\n\t\t\t\t\t\t\tCARTESIAN_POINT\n\t\t\t\t\t\t\tDIRECTION\n\t\t\t\t\t\t\tDIRECTION\n\t\tAXIS2_PLACEMENT_3D[]\n\t\t\tCARTESIAN_POINT\n\t\t\tDIRECTION\n\t\t\tDIRECTION\n\t\tGEOMETRIC_REPRESENTATION_CONTEXT[]\n",
+                                                        "children": [],
+                                                        "childAmount": 0
+                                                    }
+                                                },
+                                                {
+                                                    "#2164-#2178": {
+                                                        "description": "SHAPE_DEFINITION_REPRESENTATION #2178 \n\tPRODUCT_DEFINITION_SHAPE[]\n\t\tPRODUCT_DEFINITION[]\n\tADVANCED_BREP_SHAPE_REPRESENTATION[]\n\t\tMANIFOLD_SOLID_BREP[]\n\t\t\tCLOSED_SHELL[]\n\t\t\t\tADVANCED_FACE[]\n\t\t\t\t\tFACE_BOUND[]\n\t\t\t\t\t\tVERTEX_LOOP[]\n\t\t\t\t\t\t\tVERTEX_POINT[]\n\t\t\t\t\t\t\t\tCARTESIAN_POINT\n\t\t\t\t\tTOROIDAL_SURFACE[]\n\t\t\t\t\t\tAXIS2_PLACEMENT_3D[]\n\t\t\t\t\t\t\tCARTESIAN_POINT\n\t\t\t\t\t\t\tDIRECTION\n\t\t\t\t\t\t\tDIRECTION\n\t\tAXIS2_PLACEMENT_3D[]\n\t\t\tCARTESIAN_POINT\n\t\t\tDIRECTION\n\t\t\tDIRECTION\n\t\tGEOMETRIC_REPRESENTATION_CONTEXT[]\n",
+                                                        "children": [],
+                                                        "childAmount": 0
+                                                    }
+                                                }
+                                            ],
+                                            "childAmount": 2
+                                        }
+                                    }
+                                ],
+                                "childAmount": 3
+                            }
+                        }
+                    ],
+                    "childAmount": 2
+                }
+            },
+            {
+                "#4092-#4106": {
+                    "description": "SHAPE_DEFINITION_REPRESENTATION #4106 \n\tPRODUCT_DEFINITION_SHAPE[]\n\t\tPRODUCT_DEFINITION[]\n\tADVANCED_BREP_SHAPE_REPRESENTATION[]\n\t\tAXIS2_PLACEMENT_3D[]\n\t\t\tCARTESIAN_POINT\n\t\t\tDIRECTION\n\t\t\tDIRECTION\n\t\tAXIS2_PLACEMENT_3D[]\n\t\t\tCARTESIAN_POINT\n\t\t\tDIRECTION\n\t\t\tDIRECTION\n\t\tAXIS2_PLACEMENT_3D[]\n\t\t\tCARTESIAN_POINT\n\t\t\tDIRECTION\n\t\t\tDIRECTION\n\t\tGEOMETRIC_REPRESENTATION_CONTEXT[]\n",
+                    "children": [
+                        {
+                            "#2988-#3002": {
+                                "description": "SHAPE_DEFINITION_REPRESENTATION #3002 \n\tPRODUCT_DEFINITION_SHAPE[]\n\t\tPRODUCT_DEFINITION[]\n\tADVANCED_BREP_SHAPE_REPRESENTATION[]\n\t\tMANIFOLD_SOLID_BREP[]\n\t\t\tCLOSED_SHELL[]\n\t\t\t\tADVANCED_FACE[]\n\t\t\t\t\tFACE_BOUND[]\n\t\t\t\t\t\tEDGE_LOOP[]\n\t\t\t\t\tPLANE[]\n\t\t\t\tADVANCED_FACE[]\n\t\t\t\t\tFACE_BOUND[]\n\t\t\t\t\t\tEDGE_LOOP[]\n\t\t\t\t\tFACE_BOUND[]\n\t\t\t\t\t\tVERTEX_LOOP[]\n\t\t\t\t\t\t\tVERTEX_POINT[]\n\t\t\t\t\t\t\t\tCARTESIAN_POINT\n\t\t\t\t\tCONICAL_SURFACE[]\n\t\t\t\t\t\tAXIS2_PLACEMENT_3D[]\n\t\t\t\t\t\t\tCARTESIAN_POINT\n\t\t\t\t\t\t\tDIRECTION\n\t\t\t\t\t\t\tDIRECTION\n\t\tAXIS2_PLACEMENT_3D[]\n\t\t\tCARTESIAN_POINT\n\t\t\tDIRECTION\n\t\t\tDIRECTION\n\t\tGEOMETRIC_REPRESENTATION_CONTEXT[]\n",
+                                "children": [],
+                                "childAmount": 0
+                            }
+                        },
+                        {
+                            "#2892-#2906": {
+                                "description": "SHAPE_DEFINITION_REPRESENTATION #2906 \n\tPRODUCT_DEFINITION_SHAPE[]\n\t\tPRODUCT_DEFINITION[]\n\tADVANCED_BREP_SHAPE_REPRESENTATION[]\n\t\tMANIFOLD_SOLID_BREP[]\n\t\t\tCLOSED_SHELL[]\n\t\t\t\tADVANCED_FACE[]\n\t\t\t\t\tFACE_BOUND[]\n\t\t\t\t\t\tEDGE_LOOP[]\n\t\t\t\t\tPLANE[]\n\t\t\t\tADVANCED_FACE[]\n\t\t\t\t\tFACE_BOUND[]\n\t\t\t\t\t\tEDGE_LOOP[]\n\t\t\t\t\tPLANE[]\n\t\t\t\tADVANCED_FACE[]\n\t\t\t\t\tFACE_BOUND[]\n\t\t\t\t\t\tEDGE_LOOP[]\n\t\t\t\t\tFACE_BOUND[]\n\t\t\t\t\t\tEDGE_LOOP[]\n\t\t\t\t\tCYLINDRICAL_SURFACE[]\n\t\t\t\t\t\tAXIS2_PLACEMENT_3D[]\n\t\t\t\t\t\t\tCARTESIAN_POINT\n\t\t\t\t\t\t\tDIRECTION\n\t\t\t\t\t\t\tDIRECTION\n\t\tAXIS2_PLACEMENT_3D[]\n\t\t\tCARTESIAN_POINT\n\t\t\tDIRECTION\n\t\t\tDIRECTION\n\t\tGEOMETRIC_REPRESENTATION_CONTEXT[]\n",
+                                "children": [],
+                                "childAmount": 0
+                            }
+                        }
+                    ],
+                    "childAmount": 2
+                }
+            },
+            {
+                "#3936-#3950": {
+                    "description": "SHAPE_DEFINITION_REPRESENTATION #3950 \n\tPRODUCT_DEFINITION_SHAPE[]\n\t\tPRODUCT_DEFINITION[]\n\tADVANCED_BREP_SHAPE_REPRESENTATION[]\n\t\tAXIS2_PLACEMENT_3D[]\n\t\t\tCARTESIAN_POINT\n\t\t\tDIRECTION\n\t\t\tDIRECTION\n\t\tAXIS2_PLACEMENT_3D[]\n\t\t\tCARTESIAN_POINT\n\t\t\tDIRECTION\n\t\t\tDIRECTION\n\t\tAXIS2_PLACEMENT_3D[]\n\t\t\tCARTESIAN_POINT\n\t\t\tDIRECTION\n\t\t\tDIRECTION\n\t\tGEOMETRIC_REPRESENTATION_CONTEXT[]\n",
+                    "children": [
+                        {
+                            "#2796-#2810": {
+                                "description": "SHAPE_DEFINITION_REPRESENTATION #2810 \n\tPRODUCT_DEFINITION_SHAPE[]\n\t\tPRODUCT_DEFINITION[]\n\tADVANCED_BREP_SHAPE_REPRESENTATION[]\n\t\tMANIFOLD_SOLID_BREP[]\n\t\t\tCLOSED_SHELL[]\n\t\t\t\tADVANCED_FACE[]\n\t\t\t\t\tFACE_BOUND[]\n\t\t\t\t\t\tEDGE_LOOP[]\n\t\t\t\t\tPLANE[]\n\t\t\t\tADVANCED_FACE[]\n\t\t\t\t\tFACE_BOUND[]\n\t\t\t\t\t\tEDGE_LOOP[]\n\t\t\t\t\tPLANE[]\n\t\t\t\tADVANCED_FACE[]\n\t\t\t\t\tFACE_BOUND[]\n\t\t\t\t\t\tEDGE_LOOP[]\n\t\t\t\t\tFACE_BOUND[]\n\t\t\t\t\t\tEDGE_LOOP[]\n\t\t\t\t\tCYLINDRICAL_SURFACE[]\n\t\t\t\t\t\tAXIS2_PLACEMENT_3D[]\n\t\t\t\t\t\t\tCARTESIAN_POINT\n\t\t\t\t\t\t\tDIRECTION\n\t\t\t\t\t\t\tDIRECTION\n\t\tAXIS2_PLACEMENT_3D[]\n\t\t\tCARTESIAN_POINT\n\t\t\tDIRECTION\n\t\t\tDIRECTION\n\t\tGEOMETRIC_REPRESENTATION_CONTEXT[]\n",
+                                "children": [],
+                                "childAmount": 0
+                            }
+                        },
+                        {
+                            "#2700-#2714": {
+                                "description": "SHAPE_DEFINITION_REPRESENTATION #2714 \n\tPRODUCT_DEFINITION_SHAPE[]\n\t\tPRODUCT_DEFINITION[]\n\tADVANCED_BREP_SHAPE_REPRESENTATION[]\n\t\tMANIFOLD_SOLID_BREP[]\n\t\t\tCLOSED_SHELL[]\n\t\t\t\tADVANCED_FACE[]\n\t\t\t\t\tFACE_BOUND[]\n\t\t\t\t\t\tEDGE_LOOP[]\n\t\t\t\t\tFACE_BOUND[]\n\t\t\t\t\t\tEDGE_LOOP[]\n\t\t\t\t\tTOROIDAL_SURFACE[]\n\t\t\t\t\t\tAXIS2_PLACEMENT_3D[]\n\t\t\t\t\t\t\tCARTESIAN_POINT\n\t\t\t\t\t\t\tDIRECTION\n\t\t\t\t\t\t\tDIRECTION\n\t\t\t\tADVANCED_FACE[]\n\t\t\t\t\tFACE_BOUND[]\n\t\t\t\t\t\tEDGE_LOOP[]\n\t\t\t\t\tFACE_BOUND[]\n\t\t\t\t\t\tEDGE_LOOP[]\n\t\t\t\t\tPLANE[]\n\t\t\t\tADVANCED_FACE[]\n\t\t\t\t\tFACE_BOUND[]\n\t\t\t\t\t\tEDGE_LOOP[]\n\t\t\t\t\tFACE_BOUND[]\n\t\t\t\t\t\tEDGE_LOOP[]\n\t\t\t\t\tCYLINDRICAL_SURFACE[]\n\t\t\t\t\t\tAXIS2_PLACEMENT_3D[]\n\t\t\t\t\t\t\tCARTESIAN_POINT\n\t\t\t\t\t\t\tDIRECTION\n\t\t\t\t\t\t\tDIRECTION\n\t\t\t\tADVANCED_FACE[]\n\t\t\t\t\tFACE_BOUND[]\n\t\t\t\t\t\tEDGE_LOOP[]\n\t\t\t\t\tFACE_BOUND[]\n\t\t\t\t\t\tEDGE_LOOP[]\n\t\t\t\t\tPLANE[]\n\t\tAXIS2_PLACEMENT_3D[]\n\t\t\tCARTESIAN_POINT\n\t\t\tDIRECTION\n\t\t\tDIRECTION\n\t\tGEOMETRIC_REPRESENTATION_CONTEXT[]\n",
+                                "children": [],
+                                "childAmount": 0
+                            }
+                        }
+                    ],
+                    "childAmount": 2
+                }
+            },
+            {
+                "#3840-#3854": {
+                    "description": "SHAPE_DEFINITION_REPRESENTATION #3854 \n\tPRODUCT_DEFINITION_SHAPE[]\n\t\tPRODUCT_DEFINITION[]\n\tADVANCED_BREP_SHAPE_REPRESENTATION[]\n\t\tMANIFOLD_SOLID_BREP[]\n\t\t\tCLOSED_SHELL[]\n\t\t\t\tADVANCED_FACE[]\n\t\t\t\t\tFACE_BOUND[]\n\t\t\t\t\t\tEDGE_LOOP[]\n\t\t\t\t\tPLANE[]\n\t\t\t\tADVANCED_FACE[]\n\t\t\t\t\tFACE_BOUND[]\n\t\t\t\t\t\tEDGE_LOOP[]\n\t\t\t\t\tCYLINDRICAL_SURFACE[]\n\t\t\t\t\t\tAXIS2_PLACEMENT_3D[]\n\t\t\t\t\t\t\tCARTESIAN_POINT\n\t\t\t\t\t\t\tDIRECTION\n\t\t\t\t\t\t\tDIRECTION\n\t\t\t\tADVANCED_FACE[]\n\t\t\t\t\tFACE_BOUND[]\n\t\t\t\t\t\tEDGE_LOOP[]\n\t\t\t\t\tPLANE[]\n\t\t\t\tADVANCED_FACE[]\n\t\t\t\t\tFACE_BOUND[]\n\t\t\t\t\t\tEDGE_LOOP[]\n\t\t\t\t\tPLANE[]\n\t\t\t\tADVANCED_FACE[]\n\t\t\t\t\tFACE_BOUND[]\n\t\t\t\t\t\tEDGE_LOOP[]\n\t\t\t\t\tBOUNDED_SURFACE[]\n\t\t\t\t\t\tCARTESIAN_POINT\n\t\t\t\t\t\tCARTESIAN_POINT\n\t\t\t\t\t\tCARTESIAN_POINT\n\t\t\t\t\t\tCARTESIAN_POINT\n\t\t\t\t\t\tCARTESIAN_POINT\n\t\t\t\t\t\tCARTESIAN_POINT\n\t\t\t\tADVANCED_FACE[]\n\t\t\t\t\tFACE_BOUND[]\n\t\t\t\t\t\tEDGE_LOOP[]\n\t\t\t\t\tPLANE[]\n\t\t\t\tADVANCED_FACE[]\n\t\t\t\t\tFACE_BOUND[]\n\t\t\t\t\t\tEDGE_LOOP[]\n\t\t\t\t\tBOUNDED_SURFACE[]\n\t\t\t\t\t\tCARTESIAN_POINT\n\t\t\t\t\t\tCARTESIAN_POINT\n\t\t\t\t\t\tCARTESIAN_POINT\n\t\t\t\t\t\tCARTESIAN_POINT\n\t\t\t\t\t\tCARTESIAN_POINT\n\t\t\t\t\t\tCARTESIAN_POINT\n\t\t\t\tADVANCED_FACE[]\n\t\t\t\t\tFACE_BOUND[]\n\t\t\t\t\t\tEDGE_LOOP[]\n\t\t\t\t\tPLANE[]\n\t\t\t\tADVANCED_FACE[]\n\t\t\t\t\tFACE_BOUND[]\n\t\t\t\t\t\tEDGE_LOOP[]\n\t\t\t\t\tPLANE[]\n\t\t\t\tADVANCED_FACE[]\n\t\t\t\t\tFACE_BOUND[]\n\t\t\t\t\t\tEDGE_LOOP[]\n\t\t\t\t\tSURFACE_OF_LINEAR_EXTRUSION[]\n\t\t\t\t\t\tELLIPSE[]\n\t\t\t\t\t\t\tAXIS2_PLACEMENT_3D[]\n\t\t\t\t\t\t\t\tCARTESIAN_POINT\n\t\t\t\t\t\t\t\tDIRECTION\n\t\t\t\t\t\t\t\tDIRECTION\n\t\t\t\t\t\tVECTOR[]\n\t\t\t\t\t\t\tDIRECTION\n\t\t\t\tADVANCED_FACE[]\n\t\t\t\t\tFACE_BOUND[]\n\t\t\t\t\t\tEDGE_LOOP[]\n\t\t\t\t\tPLANE[]\n\t\tAXIS2_PLACEMENT_3D[]\n\t\t\tCARTESIAN_POINT\n\t\t\tDIRECTION\n\t\t\tDIRECTION\n\t\tGEOMETRIC_REPRESENTATION_CONTEXT[]\n",
+                    "children": [],
+                    "childAmount": 0
+                }
+            },
+            {
+                "#3744-#3758": {
+                    "description": "SHAPE_DEFINITION_REPRESENTATION #3758 \n\tPRODUCT_DEFINITION_SHAPE[]\n\t\tPRODUCT_DEFINITION[]\n\tADVANCED_BREP_SHAPE_REPRESENTATION[]\n\t\tMANIFOLD_SOLID_BREP[]\n\t\t\tCLOSED_SHELL[]\n\t\t\t\tADVANCED_FACE[]\n\t\t\t\t\tFACE_BOUND[]\n\t\t\t\t\t\tEDGE_LOOP[]\n\t\t\t\t\tPLANE[]\n\t\t\t\tADVANCED_FACE[]\n\t\t\t\t\tFACE_BOUND[]\n\t\t\t\t\t\tEDGE_LOOP[]\n\t\t\t\t\tCONICAL_SURFACE[]\n\t\t\t\t\t\tAXIS2_PLACEMENT_3D[]\n\t\t\t\t\t\t\tCARTESIAN_POINT\n\t\t\t\t\t\t\tDIRECTION\n\t\t\t\t\t\t\tDIRECTION\n\t\t\t\tADVANCED_FACE[]\n\t\t\t\t\tFACE_BOUND[]\n\t\t\t\t\t\tEDGE_LOOP[]\n\t\t\t\t\tTOROIDAL_SURFACE[]\n\t\t\t\t\t\tAXIS2_PLACEMENT_3D[]\n\t\t\t\t\t\t\tCARTESIAN_POINT\n\t\t\t\t\t\t\tDIRECTION\n\t\t\t\t\t\t\tDIRECTION\n\t\t\t\tADVANCED_FACE[]\n\t\t\t\t\tFACE_BOUND[]\n\t\t\t\t\t\tEDGE_LOOP[]\n\t\t\t\t\tBOUNDED_SURFACE[]\n\t\t\t\t\t\tCARTESIAN_POINT\n\t\t\t\t\t\tCARTESIAN_POINT\n\t\t\t\t\t\tCARTESIAN_POINT\n\t\t\t\t\t\tCARTESIAN_POINT\n\t\t\t\t\t\tCARTESIAN_POINT\n\t\t\t\t\t\tCARTESIAN_POINT\n\t\t\t\t\t\tCARTESIAN_POINT\n\t\t\t\t\t\tCARTESIAN_POINT\n\t\t\t\t\t\tCARTESIAN_POINT\n\t\t\t\t\t\tCARTESIAN_POINT\n\t\t\t\t\t\tCARTESIAN_POINT\n\t\t\t\t\t\tCARTESIAN_POINT\n\t\t\t\t\t\tCARTESIAN_POINT\n\t\t\t\t\t\tCARTESIAN_POINT\n\t\t\t\t\t\tCARTESIAN_POINT\n\t\t\t\t\t\tCARTESIAN_POINT\n\t\t\t\tADVANCED_FACE[]\n\t\t\t\t\tFACE_BOUND[]\n\t\t\t\t\t\tEDGE_LOOP[]\n\t\t\t\t\tPLANE[]\n\t\tAXIS2_PLACEMENT_3D[]\n\t\t\tCARTESIAN_POINT\n\t\t\tDIRECTION\n\t\t\tDIRECTION\n\t\tGEOMETRIC_REPRESENTATION_CONTEXT[]\n",
+                    "children": [],
+                    "childAmount": 0
+                }
+            },
+            {
+                "#3648-#3662": {
+                    "description": "SHAPE_DEFINITION_REPRESENTATION #3662 \n\tPRODUCT_DEFINITION_SHAPE[]\n\t\tPRODUCT_DEFINITION[]\n\tADVANCED_BREP_SHAPE_REPRESENTATION[]\n\t\tMANIFOLD_SOLID_BREP[]\n\t\t\tCLOSED_SHELL[]\n\t\t\t\tADVANCED_FACE[]\n\t\t\t\t\tFACE_BOUND[]\n\t\t\t\t\t\tEDGE_LOOP[]\n\t\t\t\t\tBOUNDED_SURFACE[]\n\t\t\t\t\t\tCARTESIAN_POINT\n\t\t\t\t\t\tCARTESIAN_POINT\n\t\t\t\t\t\tCARTESIAN_POINT\n\t\t\t\t\t\tCARTESIAN_POINT\n\t\t\t\t\t\tCARTESIAN_POINT\n\t\t\t\t\t\tCARTESIAN_POINT\n\t\t\t\t\t\tCARTESIAN_POINT\n\t\t\t\t\t\tCARTESIAN_POINT\n\t\t\t\t\t\tCARTESIAN_POINT\n\t\t\t\t\t\tCARTESIAN_POINT\n\t\t\t\t\t\tCARTESIAN_POINT\n\t\t\t\t\t\tCARTESIAN_POINT\n\t\t\t\t\t\tCARTESIAN_POINT\n\t\t\t\t\t\tCARTESIAN_POINT\n\t\t\t\t\t\tCARTESIAN_POINT\n\t\t\t\t\t\tCARTESIAN_POINT\n\t\t\t\tADVANCED_FACE[]\n\t\t\t\t\tFACE_BOUND[]\n\t\t\t\t\t\tEDGE_LOOP[]\n\t\t\t\t\tCYLINDRICAL_SURFACE[]\n\t\t\t\t\t\tAXIS2_PLACEMENT_3D[]\n\t\t\t\t\t\t\tCARTESIAN_POINT\n\t\t\t\t\t\t\tDIRECTION\n\t\t\t\t\t\t\tDIRECTION\n\t\t\t\tADVANCED_FACE[]\n\t\t\t\t\tFACE_BOUND[]\n\t\t\t\t\t\tEDGE_LOOP[]\n\t\t\t\t\tFACE_BOUND[]\n\t\t\t\t\t\tEDGE_LOOP[]\n\t\t\t\t\tB_SPLINE_SURFACE_WITH_KNOTS[]\n\t\t\t\tADVANCED_FACE[]\n\t\t\t\t\tFACE_BOUND[]\n\t\t\t\t\t\tEDGE_LOOP[]\n\t\t\t\t\tPLANE[]\n\t\t\t\tADVANCED_FACE[]\n\t\t\t\t\tFACE_BOUND[]\n\t\t\t\t\t\tEDGE_LOOP[]\n\t\t\t\t\tPLANE[]\n\t\t\t\tADVANCED_FACE[]\n\t\t\t\t\tFACE_BOUND[]\n\t\t\t\t\t\tEDGE_LOOP[]\n\t\t\t\t\tPLANE[]\n\t\tAXIS2_PLACEMENT_3D[]\n\t\t\tCARTESIAN_POINT\n\t\t\tDIRECTION\n\t\t\tDIRECTION\n\t\tGEOMETRIC_REPRESENTATION_CONTEXT[]\n",
+                    "children": [],
+                    "childAmount": 0
+                }
+            }
+        ],
+        "childAmount": 7
+    }
+}
