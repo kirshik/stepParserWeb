@@ -1,20 +1,16 @@
-# Use a smaller base image
-FROM node:14-alpine as builder
+# base image
+FROM node:20-alpine
+
+# set working directory
 WORKDIR /app
 
-COPY package*.json ./
+# add `/app/node_modules/.bin` to $PATH
+ENV PATH /app/node_modules/.bin:$PATH
 
+# install and cache app dependencies
+COPY package.json /app/package.json
 RUN npm install
-COPY . .
+RUN npm install @vue/cli@3.7.0 -g
 
-RUN npm run build
-
-WORKDIR /app
-
-COPY --from=builder /app/build ./build
-
-EXPOSE 3000
-
-RUN npm install -g serve
-
-CMD ["serve", "-s", "build", "-l", "3000"]
+# start app
+CMD ["npm", "run", "serve"]
