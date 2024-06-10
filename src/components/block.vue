@@ -2,8 +2,8 @@
   <div class="left-panel">
     <li v-for="(item, key) in data" :key="key">
       <span
-        @click="emit('handleClick', item, key)"
-        :class="{ accent: accent == key }"
+        @click="emit('handleClick', item, String(key))"
+        :class="{ accent: accent == String(key) }"
         >{{ key }}</span
       >
       <ul>

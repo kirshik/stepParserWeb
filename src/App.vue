@@ -3,8 +3,10 @@ import block from "./components/block.vue";
 import data from "./components/STRUCTURE_Final.json";
 import { ref } from "vue";
 
-const description = ref(data[Object.keys(data)[0]].description);
 const pickedKey = ref<string>(Object.keys(data)[0]);
+// ts-ignore: ignore
+const description = ref<string>(String(data[pickedKey.value]?.description));
+
 const handleClick = (item, key) => {
   pickedKey.value = key;
   description.value = item.description;
